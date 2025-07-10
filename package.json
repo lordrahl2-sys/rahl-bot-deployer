@@ -1,0 +1,12 @@
+{
+  "name": "rahl-bot-deployer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.5.0"
+  }
+}
